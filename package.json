@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A community level database for Baldi's Basics Plus.",
   "private": true,
+  "homepage": "https://TheRealGrandGames.github.io/Baldi-s-Basics-Plus-Level-Database",
   "type": "module",
   "scripts": {
     "dev": "vite",
